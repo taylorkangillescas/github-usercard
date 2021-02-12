@@ -124,6 +124,8 @@ followersArray.forEach(link => { // for each profile in the followers array we a
   })
 })
 
+// double check this portion
+
 
     
     
